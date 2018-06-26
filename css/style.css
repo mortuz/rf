@@ -42,6 +42,7 @@
   font-size: 12px;
 }
 #what-we-do a{
+  cursor: pointer;
   text-decoration: none;
 }
 #footer {
